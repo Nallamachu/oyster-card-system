@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: oyster-card
+server:
+  port: 8181
